@@ -9,9 +9,6 @@ class App extends Component {
       <div className="App">
         <div className="offset-sm-2 col-sm-8">
           <SearchCategory/>
-          <div className="row mt-sm-3">
-            
-          </div>
         </div>
       </div>
     );
